@@ -8,6 +8,8 @@
 
 During my bachelor’s and master’s studies, I’ve worked on projects related to **perceptions of insecurity in urban spaces**, **renewable energy communities**, and **accessibility assessment**, all topics I deeply align with and hope to explore further in the future!
 
+Also, I’m really into open source and love working with collaborative tools, regularly contributing to OpenStreetMap. Follow me there at [margaridahst](https://www.openstreetmap.org/user/margaridahst)!
+
 ---
 
 🌱 I've been learning and practicing some technologies and tools, such as:
