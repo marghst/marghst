@@ -6,7 +6,7 @@
 
     "There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans."
 
-During my bachelor’s and master’s studies, I’ve worked on projects related to **perceptions of insecurity in urban spaces**, **renewable energy communities**, and **accessibility assessment**. These are all topics I deeply align with and hope to explore further in the future!
+During my bachelor’s and master’s studies, I’ve worked on projects related to **perceptions of insecurity in urban spaces**, **renewable energy communities**, and **accessibility assessment**, all topics I deeply align with and hope to explore further in the future!
 
 ---
 
