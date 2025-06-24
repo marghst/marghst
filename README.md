@@ -1,6 +1,6 @@
 ## Hi there, I'm Margarida!
 
-💡 I'm currently a **master's student** at UA (Universidade de Aveiro, Portugal), majoring in Data Science for Social Sciences!
+💡 I'm currently a **master's student** and **fellow researcher** at UA (Universidade de Aveiro, Portugal), majoring in Data Science for Social Sciences!
 
 💭 I’m passionate about **using data to make cities smarter, fairer, and more livable**. I’m especially interested in how data can help us improve **mobility, accessibility**, and **urban inclusion**, always with people at the center. I care about projects that use technology not for its own sake, but to solve real problems, reduce car dependency, and **create cities that are connected, sustainable, and built for everyday life**. Like Jane Jacobs said:
 
