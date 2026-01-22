@@ -1,17 +1,5 @@
 ## Hi there, I'm Margarida!
 
-💡 I'm currently a **master's student** and **fellow researcher** at UA (Universidade de Aveiro, Portugal), majoring in Data Science for Social Sciences!
-
-💭 I’m passionate about **using data to make cities smarter, fairer, and more livable**. I’m especially interested in how data can help us improve **mobility, accessibility**, and **urban inclusion**, always with people at the center. I care about projects that use technology not for its own sake, but to solve real problems, reduce car dependency, and **create cities that are connected, sustainable, and built for everyday life**. Like Jane Jacobs said:
-
-    "There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans."
-
-During my bachelor’s and master’s studies, I’ve worked on projects related to **perceptions of insecurity in urban spaces**, **renewable energy communities**, and **accessibility assessment**, all topics I deeply align with and hope to explore further in the future!
-
-Also, I’m really into open source and love working with collaborative tools, regularly contributing to OpenStreetMap. Follow me there at [margaridahst](https://www.openstreetmap.org/user/margaridahst)!
-
----
-
 🌱 I've been learning and practicing some technologies and tools, such as:
   | Python | SQL | GIS | R |
   |--------|-----|-----|---|
