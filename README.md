@@ -1,11 +1,6 @@
 ## Hi there, I'm Margarida!
 
-🌱 I've been learning and practicing some technologies and tools, such as:
-  | Python | SQL | GIS | R |
-  |--------|-----|-----|---|
-  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/> <img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/microsoft-sql_server.png" width="40" alt="SQL Server"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" width="40"/> <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-60x60.png" width="40" alt="QGIS"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" alt="R"/> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/RStudio.png" width="40" alt="RStudio"/> |
-
-
+🌱 I've been learning and practicing some technologies and tools, such as Python, SQL, PostGIS, GIS, R.
 
 
 <!--
